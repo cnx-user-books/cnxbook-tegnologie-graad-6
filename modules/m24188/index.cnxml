@@ -1,0 +1,446 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Inleiding tot drie-dimensionele voorwerpe</title>
+  <metadata>
+  <md:content-id>m24188</md:content-id><md:title>Inleiding tot drie-dimensionele voorwerpe</md:title>
+  <md:abstract/>
+  <md:uuid>3d9b5b31-5b74-47c6-bd03-b5b8324f768f</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165441140995">
+      <title>TEGNOLOGIE </title>
+      <para id="para-id1165441140995">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3398956">
+      <title>Graad 6</title>
+      <para id="para-id3398956">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6364723">
+      <title>3-D DROME</title>
+      <para id="para-id6364723">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165441114199">
+      <title>Module 4</title>
+      <para id="para-id1165441114199">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6692422">
+      <title>INLEIDING TOT DRIE-DIMENSIONELE VOORWERPE</title>
+      <para id="id1165442515119">Inleiding tot drie-dimensionele voorwerpe</para>
+      <para id="id1165450740836">Jy het al kennis gemaak met ‘n verskeidenheid twee-dimensionele vorms, naamlik <emphasis effect="bold">‘n vierkant, reghoek, driehoek </emphasis>en ‘n<emphasis effect="bold"> sirkel.</emphasis></para>
+      <figure id="id1165443685362">
+        <media id="id1165443685362_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-69da.png" id="id1165443685362__onlineimage" height="282" width="350"/>
+        </media>
+      </figure>
+      <para id="id1165441404230">opdrag 1: </para>
+      <para id="id1165441121881">Kyk na die onderstaande skets. Kan jy moontlik nog drie twee-dimensionele vorms behalwe bogenoemde identifiseer? Trek die drie figure met drie verskillende kleure kleurpotlode na.</para>
+      <table id="id8500532" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.12</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <figure id="id3570802">
+        <media id="id3570802_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-7782.png" id="id3570802__onlineimage" height="300" width="460"/>
+        </media>
+      </figure>
+      <para id="id4168113">Hierdie figure is  ,   en  .</para>
+      <para id="id1165443983418">Kom ons kyk na die eienskappe van hierdie figure en of daar enige ooreenkoms is tussen hierdie figure en die bostaande figure.</para>
+      <para id="id3377849"/>
+      <para id="id1165442557501"> opdrag 2: </para>
+      <para id="id1165443119811">Skryf net die naam/name van die figuur/figure neer wat hierdie eienskap besit.</para>
+      <table id="id1165442544528" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.12</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1165441004942" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+        <item>Al vier sye is ewe lank </item>
+        <item>Het vier regte hoeke </item>
+        <item>Het twee stomphoeke en twee skerphoeke </item>
+        <item>Het twee lang sye en twee kort sye </item>
+        <item>Een paar teenoorstaande sye loop parallel </item>
+        <item>Albei pare teenoorstaande sye loop parallel </item>
+        <item>Sy omtrek kan nie met ‘n liniaal gemeet word nie </item>
+      </list>
+      <para id="id1165445895883"> opdrag 3A: </para>
+      <para id="id1165446381426">Kom ons probeer om PARALLELOGRAMME en RUITE te teken. Hiervoor het jy ‘n 30º/60º ruitnet nodig. (Bylae 1) </para>
+      <table id="id1866699" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.12</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1891293">Plaas die ruitnet onder die bladsy, draai die bladsy dwars en teken ‘n parallelogram van 50 mm by 30 mm. Kan jy die parallelogram op ten minste twee verskillende maniere teken?</para>
+      <para id="id6691401"> OPDRAG 3B: </para>
+      <para id="id1165443846328">Teken ‘n ruit waarvan die sye elk 40 mm is, met behulp van die 30º/ 60º ruitnet. Probeer dit op twee verskillende maniere doen.</para>
+      <table id="id1165443195847" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.12</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165445823529">Agtergrond:</para>
+      <para id="id2398161">Wanneer ons lyne verbind, word <emphasis effect="bold">plat vlakke</emphasis> of <emphasis effect="bold">fatsoene</emphasis> gevorm. Wanneer ons vier of meer plat vlakke verbind, kry ons <emphasis effect="bold">‘n drie-dimensionele voorwerp</emphasis>.</para>
+      <para id="id5177608">As jy ses vierkante teen mekaar sit, kry jy ‘n soort doos wat ons ‘n KUBUS noem. ‘n Kubus het drie dimensies, naamlik <emphasis effect="bold">lengte, breedte en hoogte</emphasis>. ‘n Kubus het ook ses <emphasis effect="bold">vlakke.</emphasis></para>
+      <para id="id1165442832219">Let wel:</para>
+      <para id="id1165445445862">Die kante van die kubus wat ons nie kan sien nie, word met <emphasis effect="bold">‘n gebroke lyn</emphasis> (strepieslyn) aangedui. Onthou dat die strepieslyne mekaar altyd by die hoeke moet ontmoet.</para>
+      <para id="id8020991">
+        <figure id="id1165442677992">
+          <media id="id1165442677992_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 3-5aaf.png" id="id1165442677992__onlineimage" height="268" width="528"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1165441149467"> OPDRAG 4A: </para>
+      <para id="id1165448718904">Probeer om jou eie kubus met behulp van die 30º/60º ruitnet te teken. Dui ook die gebroke lyne aan. Laat jou maats jou help om dit te doen as jy sukkel.</para>
+      <table id="id1165444874244" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.12</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165444905126">Voorstel:</para>
+      <para id="id4513287">Elke sy loop oor vyf blokkies.</para>
+      <figure id="id1165449774035">
+        <media id="id1165449774035_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-bfde.png" id="id1165449774035__onlineimage" height="126" width="153"/>
+        </media>
+      </figure>
+      <para id="id1165444328172">Watter gewilde speelding is in die vorm van ’ n kubus? ‘n d  n. </para>
+      <para id="id4322414">Kan jy aan nog voorbeelde dink?  </para>
+      <para id="id1971285">Agtergrond:</para>
+      <para id="id8718800">As ons vier reghoeke van dieselfde grootte en twee kleiner reghoeke teen mekaar sit, kry ons ‘n soort figuur wat soos ‘n baksteen of ‘n skoendoos lyk. Hierdie figuur het ook drie dimensies, naamlik lengte, breedte en hoogte. Die figuur het ook ses vlakke.</para>
+      <para id="id8177136">
+        <figure id="id1165442906669">
+          <media id="id1165442906669_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 6-c8ce.png" id="id1165442906669__onlineimage" height="182" width="575"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1165442641974"/>
+      <para id="id7650319"> OPDRAG 4B: </para>
+      <para id="id1165444808183">Probeer om jou eie baksteen met behulp van die 30º/60º ruitnet te teken. Dui ook die gebroke lyne aan.</para>
+      <table id="id1165444329801" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.12</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2410221">Voorstel:</para>
+      <para id="id1165442674976">Voorstel: lengte: 60 mm; breedte: 40 mm; hoogte: 30 mm</para>
+      <para id="id1165447567948"/>
+      <para id="id1165445061613">Agtergrond:</para>
+      <para id="id1165447229090">Ander drie-dimensionele figure wat ons kry, is <emphasis effect="bold">‘n silinder</emphasis>, byvoorbeeld die kartonbuis van die toiletpapier; ‘n <emphasis effect="bold">sfeer</emphasis>, byvoorbeeld ‘n sokkerbal; ‘n <emphasis effect="bold">piramide,</emphasis> byvoorbeeld die dak van ‘n eenvoudige vierkantige huis, en ‘n <emphasis effect="bold">keël,</emphasis> byvoorbeeld die roomyshorinkie as jy vir jou ‘n draairoomys koop.</para>
+      <figure id="id1165442901449">
+        <media id="id1165442901449_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 7-044d.png" id="id1165442901449__onlineimage" height="115" width="428"/>
+        </media>
+      </figure>
+      <para id="id1165442795526"/>
+      <para id="id1165445636751"> OPDRAG 5: </para>
+      <para id="id1165447051211">Teken vryhand ‘n voorbeeld van elk van bogenoemde drie-dimensionele figure in die spasie hieronder.</para>
+      <table id="id2353173" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1165446176987">
+      <title>Assessering</title>
+      <table id="id5908683" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>TEGNOLOGIESE PROSESSE EN VAARDIGHEDEDie leerder is in staat om tegnologiese prosesse en vaardighede eties en verantwoordelik toe te pas deur gepaste inligtings- en kommunikasietegnologie te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">Dit is duidelik wanneer die leerder </emphasis>
+                <emphasis effect="bold">die volgende doen</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Ondersoek:</entry>
+            </row>
+            <row>
+              <entry>1.2 vind uit oor bestaande produkte wat relevant vir ‘n probleem, behoefte of geleentheid is, en identifiseer en vergelyk die ontwerpaspekte daarvan (bv. vir wie dit is, waarvoor dit is, hoe dit lyk; waarvan dit gemaak is, hoe dit werk, of dit die omgewing sal affekteer);</entry>
+            </row>
+            <row>
+              <entry>1.3 voer, waar gepas, ‘n wetenskaplike ondersoek uit oor begrippe wat relevant vir ‘n probleem, behoefte of geleentheid is deur wetenskapprosesvaardighede te gebruik;</entry>
+            </row>
+            <row>
+              <entry>Ontwerp:</entry>
+            </row>
+            <row>
+              <entry>1.4 skryf of kommunikeer ‘n ontwerpopdrag vir die ontwikkeling van ‘n produk met betrekking tot ‘n gegewe probleem, behoefte of geleentheid en stel die tegnologiese doel van die oplossing duidelik;</entry>
+            </row>
+            <row>
+              <entry>1.5 stel minstens twee alternatiewe oplossings vir die probleem, behoefte of geleentheid voor wat duidelik met die ontwerpopdrag en met gegewe spesifikasies en besprekings (bv. mense, doel, veiligheid, omgewingsimpak, voorkoms) skakel, en teken dit aan;</entry>
+            </row>
+            <row>
+              <entry>Maak:</entry>
+            </row>
+            <row>
+              <entry>1.7 ontwikkel planne met besonderhede oor die stappe om dinge te maak, insluitend tekeninge of sketse wat help om die planne duidelik te stel;</entry>
+            </row>
+            <row>
+              <entry>1.8 kies en gebruik gepaste gereedskap en materiaal om produkte te maak deur die gekose materiaal af te meet, uit te merk, te sny of te skei, te vorm of te vervorm, aan mekaar te heg, te las of saam te voeg, en af te rond;</entry>
+            </row>
+            <row>
+              <entry>1.9 werk doeltreffend en veilig;</entry>
+            </row>
+            <row>
+              <entry>Evalueer:</entry>
+            </row>
+            <row>
+              <entry>1.10 evalueer die produk volgens die ontwerpopdrag en gegewe spesifikasies en besprekings (bv. mense, doel, omgewingsimpak, veiligheid, voorkoms), en stel verbeteringe en wysigings voor, indien nodig;</entry>
+            </row>
+            <row>
+              <entry>1.11 evalueer die aksieplan wat gevolg is en stel verbeteringe en wysigings voor, indien nodig;</entry>
+            </row>
+            <row>
+              <entry>Kommunikeer:</entry>
+            </row>
+            <row>
+              <entry>1.12 maak gepaste sketse (bv. tweedimensionele sketse van idees met byskrifte, uitgebreide tekeninge van finale oplossing en tekeninge met afmetings) om verskillende inligting gepas en doeltreffend te kommunikeer.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1165442711070">
+      <title>Memorandum</title>
+      <para id="id1165441320103"> Opdrag 1 </para>
+      <list id="id6684070" list-type="bulleted">
+        <item>trapesiums,</item>
+        <item>parallellogramme,</item>
+        <item>ruite (geen spesifieke volgorde nie )</item>
+      </list>
+      <para id="id3978515"> Opdrag 2 </para>
+      <para id="id6712663">a) vierkant, ruit</para>
+      <para id="id1165448536540">b) vierkant, reghoek</para>
+      <para id="id1165446723118">c) parallellogram, ruit</para>
+      <para id="id1165443708253">d) parallelogram,reghoek</para>
+      <para id="id1165447228046">e) trapesium</para>
+      <para id="id1165444959229">f) vierkant, ruit, parallelogram, reghoek</para>
+      <para id="id1165443111618">g) sirkel</para>
+      <para id="id4484038"> Opdrag 3A</para>
+      <para id="id1165446990684">Baie moontlikhede is korrek, solank die twee oorstaande sye oor drie en die ander oorstaande sye oor vyf blokkies loop.</para>
+      <para id="id1165445808006"> Opdrag 3B</para>
+      <para id="id1165443147779">Die ruit kan verskillend geplaas word solank al vier sye oor vier blokkies loop.</para>
+      <para id="id1165443394562"> Opdrag 4A</para>
+      <para id="id1165447332340">Dobbelsteen /Rubic se kubu</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,584 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Ontwerp en maak 'n basiese raamstruktuur</title>
+  <metadata>
+  <md:content-id>m24192</md:content-id><md:title>Ontwerp en maak 'n basiese raamstruktuur</md:title>
+  <md:abstract/>
+  <md:uuid>88c41994-e4ab-4cbf-92a5-3e14af93e0a8</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165447900632">
+      <title>TEGNOLOGIE </title>
+      <para id="para-id1165447900632">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165436665579">
+      <title>Graad 6</title>
+      <para id="para-id1165436665579">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165440059993">
+      <title>STRUKTURE</title>
+      <para id="para-id1165440059993">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165441144069">
+      <title>Module 9</title>
+      <para id="para-id1165441144069">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165437711776">
+      <title>Ontwerp en maak ‘n basiese raamstruktuur</title>
+      <para id="id1165449798512">1. Navorsing:</para>
+      <para id="id1165444384171"><emphasis effect="bold">Aan die onderwyser:</emphasis> Verdeel die klas in groepe wat min of meer ewe sterk is.</para>
+      <para id="id1165439945636"><emphasis effect="bold">Opdrag aan die groepe:</emphasis> Win soveel moontlik inligting in oor tipes brûe en die maak van brûe en kom gee terugvoering aan die res van die klas. Elke leerder moet die volgende vraelys oor ‘n beroemde brug voltooi:</para>
+      <table id="id1165446254842" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Voorbeeld</entry>
+              <entry>Jou Voorbeeld</entry>
+            </row>
+            <row>
+              <entry>Naam van die brug?</entry>
+              <entry>Golden Gate-brug</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Waar is die brug?</entry>
+              <entry>Ingang na San Francisco- baai in Noord-Amerika</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Wanneer is die brug voltooi?</entry>
+              <entry>1937</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Watter tipe brug is dit?</entry>
+              <entry>‘n Hangbrug</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hoe lank is die brug?</entry>
+              <entry>1 280 m</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Bron?</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>‘n Foto van dié brug?</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165442654479"/>
+      <table id="id1165442498248" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.2</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165448645125">2. Ontwerp</para>
+      <para id="id8290123"> Aangesien jul groep betrokke gaan wees by die ontwerp en konstruksie van ‘n vakwerkbrug, het die ingenieur reeds die spesifikasies bepaal. Julle gaan nou ‘n prototipe van die brug van papierstrooitjies en karton bou.</para>
+      <figure id="id1165441382024">
+        <media id="id1165441382024_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 1-e699.png" id="id1165441382024__onlineimage" height="243" width="418"/>
+        </media>
+      </figure>
+      <para id="id5952078"/>
+      <para id="id1165439554497">Spesifikasies van die struktuur:</para>
+      <para id="id1165441268536"><emphasis effect="bold">Doel:</emphasis> Om ‘n afstand van 50 cm te oorspan en 200 g te kan ondersteun sonder dat dit sou bars, inmekaarval, buig, kromtrek, vervorm of omval.</para>
+      <para id="id1165442615225"><emphasis effect="bold">Tipe struktuur: </emphasis>‘n Raamstruktuur ±50 cm lank en ±10 cm breed. (Stawe in driehoekige vorms geplaas.)</para>
+      <para id="id1165436284174">Materiaal:</para>
+      <list id="id1165439762798" list-type="bulleted">
+        <item>25 papierstrooitjies van ±20 cm lank elk om die twee ewe groot vakwerke mee te bou.</item>
+        <item>Sewe rekkies en sosatiestokkies om stewigheid te verleen (indien nodig).<emphasis effect="bold"/></item>
+        <item>Tien papierstrooitjies van ±15 cm lank elk om die twee vakwerke aanmekaar te verbind.</item>
+        <item>‘n Strook karton 60 cm lank en ±15 cm breed om die padoppervlakte voor te stel.</item>
+        <item>Twee ewe groot graanvlokkiedose om die oewers waarop die brug gaan rus, voor te stel.</item>
+        <item>Houtlym om die strooitjies langer te maak, indien nodig.</item>
+      </list>
+      <para id="id7611419"/>
+      <para id="id1165439556462">Gereedskap:</para>
+      <list id="id1165441488773" list-type="bulleted">
+        <item>‘n skêr om strooitjies gelyk te knip;</item>
+        <item>‘n gompistool om strooitjies vinnig en stewig te heg;</item>
+        <item>‘n ponsmasjien en ponsdrukkertjies;</item>
+        <item>‘n gaatjiesdrukker en spleetspelde.</item>
+      </list>
+      <para id="id1165441344364"/>
+      <para id="id2144160"/>
+      <para id="id1165445874956">OPDRAG 1: </para>
+      <para id="id7095932">Identifiseer as groep die behoefte.</para>
+      <table id="id1165438316234" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.4</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165437465062"/>
+      <para id="id8295755">Voltooi: </para>
+      <para id="id1165438319386">Ons gaan ‘n   ontwerp en maak om ‘n afstand van </para>
+      <para id="id1165443871030"> te oorspan en om ‘n gewig van    te kan </para>
+      <para id="id1165437921506">ondersteun. Ons gaan ‘n raamstruktuur met    ontwerp en </para>
+      <para id="id2124031">maak wat uit twee vakwerke van gelyksydige    bestaan </para>
+      <para id="id1165440636870">wat met   aanmekaar geheg is. Die eindproduk moet sterk, stabiel en </para>
+      <para id="id1165439746021">stewig wees</para>
+      <para id="id7718700">OPDRAG 2: </para>
+      <para id="id1165447659586">Ontwerp en teken volledig met byskrifte 3D-sketse van hoe jul groep se vakwerkbrug gaan lyk. (Raadpleeg die inligting oor hoe so ‘n brug lyk.) Elke groeplid moet ten minste een brug ontwerp, waarna julle as groep besluit wie se brug gebou gaan word. Bespreek elke lid se positiewe en negatiewe aspekte van die ontwerpe en skryf dit by elke ontwerp.</para>
+      <table id="id1165441301134" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.5</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id4291710" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Finale Ontwerp</entry>
+            </row>
+            <row>
+              <entry>Ontwerp 1: Positief:Negatief:</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ontwerp 2:Positief:Negatief:</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ontwerp 3:Positief:Negatief:</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165442611760">Wenk: </para>
+      <para id="id1165440667068">Eksperimenteer watter padoppervlakte die sterkste is, nl. as die karton net so plat gebruik word, of as die kante weerskante ±2 cm opgebuig word.</para>
+      <para id="id1165441405644">
+        <figure id="id1165440635619">
+          <media id="id1165440635619_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 2-8066.png" id="id1165440635619__onlineimage" height="145" width="594"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id1165435990299">Vervaardiging</para>
+      <para id="id1165442950985">OPDRAG 3: </para>
+      <para id="id4319723">Julle gaan nou uiteindelik probeer om die brug te bou. Beplan nou eers stap vir stap hoe julle te werk wil gaan om die brug te bou. Skryf jul maakproses noukeurig neer sodat iemand anders dit sal verstaan. Skryf ook volledig watter materiaal of gereedskap julle gedurende ‘n spesifieke aksie gaan gebruik. (LW. Hou die instruksies eenvoudig. Verkieslik slegs een aksie [werkwoord] per sin.)</para>
+      <table id="id1165440509027" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.7</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165436976520"/>
+      <para id="id7706973"><emphasis effect="bold">Bou</emphasis> nou jul brug. Volg jul geskrewe instruksies en bring veranderinge aan, indien nodig.</para>
+      <table id="id1165448717128" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.8</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165441293003">Toets en evalueer die struktuur.</para>
+      <para id="id1165439918836">OPDRAG 4: </para>
+      <para id="id1165443018398">Stel as groep ten minste vyf vrae op oor die vereistes waaraan die brug moes voldoen.</para>
+      <table id="id1165439544601" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.10</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165436485461">Voorbeelde:</para>
+      <para id="id1165443133874">a) Is die brug ±50 cm lank? </para>
+      <para id="id1165443236643"/>
+      <para id="id1165441435384">b) Kan die brug ‘n gewig van 200 g ondersteun? </para>
+      <para id="id1165444745879"/>
+      <para id="id1165442995778">c) Is die brug ±10 cm breed?  </para>
+      <para id="id1165440449721"/>
+      <para id="id1165437839279">d) Bestaan die vakwerke uit ewe groot driehoeke? </para>
+      <para id="id7163342"/>
+      <para id="id1165446689321">e) Is die papierstrooitjies stewig aan mekaar geheg?  </para>
+      <para id="id1165440496911"/>
+      <para id="id1165448456547">OPDRAG 5: </para>
+      <para id="id8097472">Ruil nou jul vrae uit met ‘n ander groep s’n en laat daardie groep jul brug eerlik evalueer deur al die vrae te beantwoord. Moenie slegs <emphasis effect="italics">Ja</emphasis> of <emphasis effect="italics">Nee</emphasis> antwoord nie, maar motiveer jul antwoorde.</para>
+      <table id="id1165442902551" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.10</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165443662515">OPDRAG 6: </para>
+      <para id="id7731478">As julle as groep die brug weer moes ontwerp en bou, watter aanbevelings sou jy as individu hê. Skryf ten minste vyf aanbevelings van jou eie neer.</para>
+      <table id="id1165444352074" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.10</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165445763089">OPDRAG 7: </para>
+      <para id="id8241197">Beskryf kortliks jou aandeel in die ontwerp en bouproses deur ‘n kruisie in die toepaslike kolom te maak en met goeie redes te motiveer. ‘n   aandeel.</para>
+      <table id="id1165437022388" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU/AS 1.11</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id1165447273024" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Klein</entry>
+              <entry>Gemiddeld</entry>
+              <entry>Groot</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1165440403656">
+      <title>Assessering</title>
+      <table id="id3276299" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>TEGNOLOGIESE PROSESSE EN VAARDIGHEDEDie leerder is in staat om tegnologiese prosesse en vaardighede eties en verantwoordelik toe te pas deur gepaste inligtings- en kommunikasietegnologie te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">Dit is duidelik wanneer die leerder </emphasis>
+                <emphasis effect="bold">die volgende doen</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Ondersoek:</entry>
+            </row>
+            <row>
+              <entry>1.2 vind uit oor bestaande produkte wat relevant vir ‘n probleem, behoefte of geleentheid is, en identifiseer en vergelyk die ontwerpaspekte daarvan (bv. vir wie dit is, waarvoor dit is, hoe dit lyk; waarvan dit gemaak is, hoe dit werk, of dit die omgewing sal affekteer);</entry>
+            </row>
+            <row>
+              <entry>1.3 voer, waar gepas, ‘n wetenskaplike ondersoek uit oor begrippe wat relevant vir ‘n probleem, behoefte of geleentheid is deur wetenskapprosesvaardighede te gebruik;</entry>
+            </row>
+            <row>
+              <entry>Ontwerp:</entry>
+            </row>
+            <row>
+              <entry>1.4 skryf of kommunikeer ‘n ontwerpopdrag vir die ontwikkeling van ‘n produk met betrekking tot ‘n gegewe probleem, behoefte of geleentheid en stel die tegnologiese doel van die oplossing duidelik;</entry>
+            </row>
+            <row>
+              <entry>1.5 stel minstens twee alternatiewe oplossings vir die probleem, behoefte of geleentheid voor wat duidelik met die ontwerpopdrag en met gegewe spesifikasies en besprekings (bv. mense, doel, veiligheid, omgewingsimpak, voorkoms) skakel, en teken dit aan;</entry>
+            </row>
+            <row>
+              <entry>Maak:</entry>
+            </row>
+            <row>
+              <entry>1.7 ontwikkel planne met besonderhede oor die stappe om dinge te maak, insluitend tekeninge of sketse wat help om die planne duidelik te stel;</entry>
+            </row>
+            <row>
+              <entry>1.8 kies en gebruik gepaste gereedskap en materiaal om produkte te maak deur die gekose materiaal af te meet, uit te merk, te sny of te skei, te vorm of te vervorm, aan mekaar te heg, te las of saam te voeg, en af te rond;</entry>
+            </row>
+            <row>
+              <entry>1.9 werk doeltreffend en veilig;</entry>
+            </row>
+            <row>
+              <entry>Evalueer:</entry>
+            </row>
+            <row>
+              <entry>1.10 evalueer die produk volgens die ontwerpopdrag en gegewe spesifikasies en besprekings (bv. mense, doel, omgewingsimpak, veiligheid, voorkoms), en stel verbeteringe en wysigings voor, indien nodig;</entry>
+            </row>
+            <row>
+              <entry>1.11 evalueer die aksieplan wat gevolg is en stel verbeteringe en wysigings voor, indien nodig;</entry>
+            </row>
+            <row>
+              <entry>Kommunikeer:</entry>
+            </row>
+            <row>
+              <entry>1.12 maak gepaste sketse (bv. tweedimensionele sketse van idees met byskrifte, uitgebreide tekeninge van finale oplossing en tekeninge met afmetings) om verskillende inligting gepas en doeltreffend te kommunikeer.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id7669316">
+      <title>Memorandum</title>
+      <para id="id1165437909894">Opdrag 1</para>
+      <list id="id1165442779224" list-type="bulleted">
+        <item>brug (vakwerkbrug)  50 cm    200 g</item>
+        <item>strooitjies driehoeke gom</item>
+      </list>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,439 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Maak 'n verkeersreguleerder</title>
+  <metadata>
+  <md:content-id>m24206</md:content-id><md:title>Maak 'n verkeersreguleerder</md:title>
+  <md:abstract/>
+  <md:uuid>5d9845c1-3a87-4198-930a-518c3a69a3d3</md:uuid>
+</metadata>
+
+<content>
+    <section id="id4960530">
+      <title>TEGNOLOGIE </title>
+      <para id="para-id4960530">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4873973">
+      <title>Graad 6</title>
+      <para id="para-id4873973">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1340486">
+      <title>STELSELS EN BEHEER: ‘N ELEKTRIESE SKOK</title>
+      <para id="para-id1340486">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3075892">
+      <title>Module 15</title>
+      <para id="para-id3075892">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5569598">
+      <title>MAAK ‘N VERKEERSREGULEERDER</title>
+      <para id="id4266647"><emphasis effect="italics">Aan die Opvoeder:</emphasis> Hierdie opdrag kan individueel of in groepe gedoen word.</para>
+      <para id="id3586013">(a) <emphasis effect="italics">Wat is die probleem?</emphasis> Jy is ‘n inwoner van Deurmekaardorp. Die dorp se verkeer is elke dag in totale chaos, aangesien die bestuurders van hul voertuie nie by die hoofkruising stilhou nie. Almal is permanent laat vir hul onderskeie werke, aangesien daar gereeld botsings of verkeersopeenhopings by dié belangrike kruising plaasvind.</para>
+      <para id="id4777166">(b) <emphasis effect="italics">Wat is die behoefte? </emphasis>Daar moet ‘n “masjien” ontwerp word wat die verkeer daagliks op ‘n sinvolle manier kan reguleer.</para>
+      <list id="id4654640" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item><emphasis effect="italics">Wat is jou opdrag?</emphasis> Jy moet ‘n prototipe van ‘n masjien ontwerp en maak wat julle by die kruising kan oprig om so die verkeer sinvol te reguleer.</item>
+      </list>
+      <para id="id4737908">(d) <emphasis effect="italics">Wat is die beperkings vir jou prototipe?</emphasis> Vir jou stroombaan mag jy die volgende gebruik: 3 gloeilampies (LED’s) van kleure wat verskil van dié van die resistors; ‘n battery en batteryhouer as die energiebron; 7 lengtes koperdraad met klampies as die geleiers, en ‘n houtplankie, 4 duimspykers en ‘n skuifspeld as die skakelaar.</para>
+      <para id="id4960704">
+        <figure id="id6730794">
+          <media id="id6730794_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-cfbb.png" id="id6730794__onlineimage" height="315" width="463"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id4535657">Daar mag slegs een liggie op ‘n keer brand. Die liggies sal vir die motoriste wys wanneer een baan moet stilhou en ‘n ander baan byvoorbeeld mag ry en op elke hoek van die kruising sal so ‘n masjien opgerig word. Jy moet net <emphasis effect="bold">een</emphasis> bou.</para>
+      <para id="id6753458">Vir die staander mag jy jou eie inisiatief gebruik, maar die masjien se prototipe mag nie hoër as 30cm of breër as 20cm wees nie. Dit moet stewig, stabiel en sterk wees.</para>
+      <para id="id5976901">Opdrag 1</para>
+    </section>
+    <section id="id4479446">
+      <title>Navorsing</title>
+      <para id="id5142396">Raadpleeg verskillende bronne en stel ten minste drie oplossings vir hierdie probleem voor. Teken of skrywe neer wat jou moontlike oplossings is.</para>
+      <figure id="id4179240">
+        <media id="id4179240_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 2-fcfc.png" id="id4179240__onlineimage" height="298" width="258"/>
+        </media>
+      </figure>
+      <figure id="id5950338">
+        <media id="id5950338_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-c511.png" id="id5950338__onlineimage" height="296" width="263"/>
+        </media>
+      </figure>
+      <table id="id5155432" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.2</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4162269">Opdrag 2</para>
+    </section>
+    <section id="id4645894">
+      <title>Ontwerp</title>
+      <list id="id717771" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Teken vryhandsketse van drie stroombane wat moontlik as ‘n oplossing vir die verkeersprobleem kan dien. Gebruik ook byskrifte.</item>
+      </list>
+      <figure id="id5741034">
+        <media id="id5741034_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 3-e0cd.png" id="id5741034__onlineimage" height="314" width="523"/>
+        </media>
+      </figure>
+      <table id="id4746110" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.5</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id6246265" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Teken ook ‘n stroomdiagram van jou finale keuse.</item>
+      </list>
+      <table id="id6087098" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>(c) Maak prototipes van elke stroomdiagram en, indien dit nie werk nie, skryf ‘n rede/redes by waarom dit nie werk nie. Vra ook jou klasmaats en onderwyser se raad.LU/AS 1.6</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6265440"><emphasis effect="underline">WENK</emphasis>!</para>
+      <list id="id613013" list-type="bulleted">
+        <item>Moet jy die liggies in serie of parallel skakel as hulle slegs een op ‘n slag mag werk? </item>
+      </list>
+      <para id="id6495333"/>
+      <list id="id4629112" list-type="bulleted">
+        <item>Waar kan jy iets skuif sodat slegs een liggie op ‘n slag brand?</item>
+      </list>
+      <para id="id5952078"/>
+      <figure id="id5710632">
+        <media id="id5710632_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 4-76df.png" id="id5710632__onlineimage" height="166" width="547"/>
+        </media>
+      </figure>
+      <table id="id5469131" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.6</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id6006509" list-type="bulleted">
+        <item>Ontwerp ook die staander waarop jy die liggies, skakelaar en battery kan monteer sodat die masjien kan werk. Die masjien sal later outomaties beheer word, maar vir eers sal ‘n werker in diens geneem word om die ligte te wissel. Bespreek eers vooraf die vereistes vir so ‘n staander as ‘n klasgroep. Gebruik byskrifte en kleur. Dui ook afmetings aan, sodat iemand jou idees sal verstaan en ook hoe dit werk.</item>
+      </list>
+      <table id="id5198825" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.5</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6672156">Ontwikkel jou beste idee volledig.</para>
+      <para id="id5633938">
+        <table id="id4472172" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>LU/AS 1.6</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </para>
+      <para id="id6494629"> Opdrag 3</para>
+      <para id="id5564232">Vervaardiging</para>
+      <list id="id6758512" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Bou nou jou staander vir die stroombaan.</item>
+      </list>
+      <table id="id6678295" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.9</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id6707919" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Watter materiaal gebruik jy?  </item>
+      </list>
+      <para id="id6259871"/>
+      <para id="id6693219"/>
+      <figure id="id4543411">
+        <media id="id4543411_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 5-e3fe.png" id="id4543411__onlineimage" height="241" width="411"/>
+        </media>
+      </figure>
+      <list id="id6649315" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Watter gereedskap gebruik jy?</item>
+      </list>
+      <para id="id6723879"/>
+      <para id="id6722754"/>
+      <figure id="id4226821">
+        <media id="id4226821_media" alt="">
+          <image mime-type="image/png" src="../../media/Picture 6-ff92.png" id="id4226821__onlineimage" height="233" width="441"/>
+        </media>
+      </figure>
+      <list id="id5085526" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Watter handelinge voer jy uit?</item>
+      </list>
+      <para id="id4844724"/>
+      <para id="id4932156"/>
+      <para id="id4945364"/>
+      <para id="id6293392"/>
+      <table id="id4185741" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.8</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id6762166" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Monteer nou jou stroombaan aan die staander.</item>
+        <item>Demonstreer jou “uitvindsel” aan die res van die klas en verduidelik hoe dit werk.</item>
+        <item>Dink aan ‘n gepaste naam vir jou “uitvindsel”. ‘n  </item>
+        <item>Skryf stapsgewys hoe jy jou “uitvindsel” gemaak het. </item>
+      </list>
+      <table id="id6597300" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.7</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4648332"> Opdrag 4</para>
+      <para id="id6704249">Evaluering</para>
+      <para id="id5045946">Skrywe drie sterk punte oor jou uitvindsel neer.</para>
+      <table id="id5173598" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.10</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id2475242">Skrywe drie swak punte oor jou uitvindsel neer.</para>
+      <table id="id4260883" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.10</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id4426127" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>As jy jou uitvindsel weer moes ontwerp en maak, wat sou jy anders gedoen het?</item>
+        <item>Wat is jou indrukke oor jou uitvindsel as jy dit met die res van jou maats s’n vergelyk? </item>
+      </list>
+      <table id="id5451152" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.10</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id5699208" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Teken ‘n 3D-skets in kleur met byskrifte van jou finale produk.</item>
+      </list>
+      <table id="id6722065" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.12</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id6521420" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+        <item>Voltooi die volgende sinne:</item>
+      </list>
+      <para id="id4959138">Ek het die meeste daarvan gehou  </para>
+      <para id="id4410897"/>
+      <para id="id5256928">Ek het geleer  </para>
+      <para id="id4899817"/>
+      <para id="id904043">Ek sou graag meer wou weet van  </para>
+      <para id="id5080575"/>
+      <table id="id4185873" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>LU/AS 1.10</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id5969208">
+      <title>Assessering</title>
+      <table id="id6674156" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>Leeruitkomstes(LUs)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>LU 1</entry>
+            </row>
+            <row>
+              <entry>TEGNOLOGIESE PROSESSE EN VAARDIGHEDEDie leerder is in staat om tegnologiese prosesse en vaardighede eties en verantwoordelik toe te pas deur gepaste inligtings- en kommunikasietegnologie te gebruik.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics">Dit is duidelik wanneer die leerder </emphasis>
+                <emphasis effect="bold">die volgende doen</emphasis>
+                <emphasis effect="italics">:</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>Ondersoek:</entry>
+            </row>
+            <row>
+              <entry>1.2 vind uit oor bestaande produkte wat relevant vir ‘n probleem, behoefte of geleentheid is, en identifiseer en vergelyk die ontwerpaspekte daarvan (bv. vir wie dit is, waarvoor dit is, hoe dit lyk; waarvan dit gemaak is, hoe dit werk, of dit die omgewing sal affekteer);</entry>
+            </row>
+            <row>
+              <entry>1.3 voer, waar gepas, ‘n wetenskaplike ondersoek uit oor begrippe wat relevant vir ‘n probleem, behoefte of geleentheid is deur wetenskapprosesvaardighede te gebruik;</entry>
+            </row>
+            <row>
+              <entry>Ontwerp:</entry>
+            </row>
+            <row>
+              <entry>1.4 skryf of kommunikeer ‘n ontwerpopdrag vir die ontwikkeling van ‘n produk met betrekking tot ‘n gegewe probleem, behoefte of geleentheid en stel die tegnologiese doel van die oplossing duidelik;</entry>
+            </row>
+            <row>
+              <entry>1.5 stel minstens twee alternatiewe oplossings vir die probleem, behoefte of geleentheid voor wat duidelik met die ontwerpopdrag en met gegewe spesifikasies en besprekings (bv. mense, doel, veiligheid, omgewingsimpak, voorkoms) skakel, en teken dit aan;</entry>
+            </row>
+            <row>
+              <entry>Maak:</entry>
+            </row>
+            <row>
+              <entry>1.7 ontwikkel planne met besonderhede oor die stappe om dinge te maak, insluitend tekeninge of sketse wat help om die planne duidelik te stel;</entry>
+            </row>
+            <row>
+              <entry>1.8 kies en gebruik gepaste gereedskap en materiaal om produkte te maak deur die gekose materiaal af te meet, uit te merk, te sny of te skei, te vorm of te vervorm, aan mekaar te heg, te las of saam te voeg, en af te rond;</entry>
+            </row>
+            <row>
+              <entry>1.9 werk doeltreffend en veilig;</entry>
+            </row>
+            <row>
+              <entry>Evalueer:</entry>
+            </row>
+            <row>
+              <entry>1.10 evalueer die produk volgens die ontwerpopdrag en gegewe spesifikasies en besprekings (bv. mense, doel, omgewingsimpak, veiligheid, voorkoms), en stel verbeteringe en wysigings voor, indien nodig;</entry>
+            </row>
+            <row>
+              <entry>1.11 evalueer die aksieplan wat gevolg is en stel verbeteringe en wysigings voor, indien nodig;</entry>
+            </row>
+            <row>
+              <entry>Kommunikeer:</entry>
+            </row>
+            <row>
+              <entry>1.12 maak gepaste sketse (bv. tweedimensionele sketse van idees met byskrifte, uitgebreide tekeninge van finale oplossing en tekeninge met afmetings) om verskillende inligting gepas en doeltreffend te kommunikeer.1.13 kies en gebruik gepaste tegnologie om die ontwerpproses aan te bied, aan te teken of te kommunikeer (bv. eenvoudige portefeulje, plakkate, diagramme, modelle)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id4940379">
+      <title>Memorandum</title>
+      <para id="id5155425"> Opdrag 1</para>
+      <para id="id6253201">Leerders se graad van moeite om die verskillende moontlike oplossings vir die probleem te vind, word beoordeel.</para>
+      <para id="id4181846"> Opdrag 2 A</para>
+      <para id="id6707265">Kontroleer of die vereiste komponente vir ‘n stroombaan in ‘n leerder se finale keuse ingesluit is.</para>
+      <para id="id6494513">Die beperkings vir die prototipe is die minumum komponente wat gebruik kan word wat die goedkoopste stroombaan sal verskaf. Moedig leerders egter aan om oorspronklik en kreatief te wees.</para>
+      <para id="id6750499">(b) Dit is belangrik dat ‘n leerder die stroombaan op ‘n wetenskaplike manier kan weergee.</para>
+      <para id="id5441423">(c) Dit is belangrik dat leerders met hul stroombane eksperimenteer om die positiewe en negatiewe aspekte van elkeen agter te kom.</para>
+      <para id="id6750151"> Parallel</para>
+      <para id="id6750035"> By die skakelaar</para>
+      <para id="id6608147">(d) Moedig leerders aan om kreatief en oorspronklik te wees in die ontwerp van ‘n staander vir die stroombaan. Die maksimum-grootte wat aangegee word, moedig die leerders ook aan om die staander so kompak en prakties moontlik te maak. Dis waarna die leerkrag kan kyk as dit geassesseer word.</para>
+      <para id="id4958964"> Opdrag 3</para>
+      <para id="id5263242">(a) Kontroleer of die staander se spesifikasies op die skets ooreenstem met die werklike produk.</para>
+      <para id="id6535036">(b) Verbruikbare items is materiale, dus kan jy verf, khoki’s, ‘n verskeidenheid dosies, karton , ens. as antwoorde verwag.</para>
+      <para id="id4618344">(c) Gereedskap is herbruikbare items, dus kan jy antwoorde soos ‘n skêr, ‘n hamer, verfkwaste, ‘n tang , ens. verwag.</para>
+      <para id="id4440186">(d) Vir die stroombaan – konnekteer, verbind, heg, plaas, hamer, druk, skuif, monteer, slaan in, ens.;</para>
+      <para id="id6663759"> Vir die staander – knip, sny, vou, buig, plak, heg, plaas, inkleur, kram, ens.</para>
+      <para id="id4911109">(g) Beoordeel elke leerder se oorspronklikheid en kreatiwiteit.</para>
+      <para id="id5955334">(h) Die materiale en gereedskap wat gebruik is, word nou saam met die handelinge gebruik om stapsgewys te beskryf hoe die stroombaan en staander gemaak is.</para>
+      <para id="id5044053"> Opdrag 4</para>
+      <para id="id4900937">(a) Antwoorde sal verskil van leerder tot leerder, solank ‘n leerder sy uitvindsel net krities beoordeel.</para>
+      <para id="id5358151">(b) Antwoorde sal verskil van leerder tot leerder, solank ‘n leerder sy uitvindsel net krities beoordeel.</para>
+      <para id="id3800128">(c) soos bg.</para>
+      <para id="id5606808">(d) soos bg.</para>
+      <para id="id5139697">(e) soos bg.</para>
+      <para id="id5574098">(f) Leerder se finale produk as ‘n 3D-skets word beoordeel.</para>
+      <para id="id6624421">(g) Leerkrag kry die geleentheid om elke stroombaan as ‘n stelsel te assesseer. ‘n Oorheersende kode kan hieruit afgelei word.</para>
+    </section>
+  </content>
+</document>
